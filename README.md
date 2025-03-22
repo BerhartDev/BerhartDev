@@ -12,22 +12,42 @@
 Sou um profissional versátil com experiência em **desenvolvimento web**, **manutenção industrial**, **eletricidade** e **automação**. Atualmente, foco meus esforços em:
 
 - Desenvolvimento de **landing pages rápidas e eficientes** 🚀
-- Criação de sites com **React**, **JavaScript** e **WordPress**
-- Suporte técnico para **pequenos empreendedores e autônomos**
+- Criação de sites com **Next.js**, **Tailwind** e **Typescript**
+- Soluções digitais para **pequenos empreendedores e autônomos**
 - Otimização de sites para mecanismos de busca (**SEO**)
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias que uso
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)
+
+---
+
+### 🔧 Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+---
+
+### ☁️ Infraestrutura & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
 ---
 
