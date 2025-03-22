@@ -1,7 +1,8 @@
 <h1 align="center">Salve! 👋 Eu sou o Bernardo</h1>
 
 <p align="center">
-  🧠 Multitarefa por natureza &bull; 👨‍💻 Desenvolvedor Web &bull; 🔧 Técnico em Eletromecânica <br/>
+  🧠 Multitarefa por natureza &bull; 👨‍💻 Desenvolvedor Full-Stack &bull; ⚙️ DevOps
+  🔧 Técnico em Eletromecânica Industrial &bull; 🛡️ Tecnólogo em Defesa Cibernética <br/>
   🚀 Construindo soluções simples para problemas complexos.
 </p>
 
@@ -9,12 +10,13 @@
 
 ### 💼 Sobre mim
 
-Sou um profissional versátil com experiência em **desenvolvimento web**, **manutenção industrial**, **eletricidade** e **automação**. Atualmente, foco meus esforços em:
+Sou um profissional versátil com experiência em **desenvolvimento web**, **automação industrial**, **elétrica" e **eletrônica**. Atualmente, foco meus esforços em:
 
+- Utilizo IA para automatizar tarefas, agilizar entregas e criar soluções mais inteligentes. 🚀 
 - Desenvolvimento de **landing pages rápidas e eficientes** 🚀
-- Criação de sites com **Next.js**, **Tailwind** e **Typescript**
-- Soluções digitais para **pequenos empreendedores e autônomos**
-- Otimização de sites para mecanismos de busca (**SEO**)
+- Criação de sites com **Next.js**, **Tailwind** e **Typescript** 🚀 
+- Soluções digitais para **pequenos empreendedores e autônomos** 🚀 
+- Otimização de sites para mecanismos de busca (**SEO**) 🚀 
 
 ---
 
