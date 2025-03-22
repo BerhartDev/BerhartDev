@@ -10,9 +10,9 @@
 
 ### 💼 Sobre mim
 
-Sou um profissional versátil com experiência em **desenvolvimento web**, **automação industrial**, **elétrica" e **eletrônica**. Atualmente, foco meus esforços em:
+Sou um profissional versátil com experiência em **infraestrutura**, **desenvolvimento web**, **automação industrial**, e **eletrônica**. Atualmente, foco meus esforços em:
 
-- Utilizo IA para automatizar tarefas, agilizar entregas e criar soluções mais inteligentes. 🚀 
+- IA para automatizar tarefas, agilizar entregas e criar soluções mais inteligentes. 🚀 
 - Desenvolvimento de **landing pages rápidas e eficientes** 🚀
 - Criação de sites com **Next.js**, **Tailwind** e **Typescript** 🚀 
 - Soluções digitais para **pequenos empreendedores e autônomos** 🚀 
