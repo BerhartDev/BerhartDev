@@ -1,7 +1,7 @@
 <h1 align="center">Salve! 👋 Eu sou o Bernardo</h1>
 
 <p align="center">
-  🧠 Multitarefa por natureza &bull; 👨‍💻 Desenvolvedor Full-Stack &bull; ⚙️ DevOps
+  🧠 Multitarefa por natureza &bull; 👨‍💻 Desenvolvedor Full-Stack &bull; ⚙️ DevOps <br/>
   🔧 Técnico em Eletromecânica Industrial &bull; 🛡️ Tecnólogo em Defesa Cibernética <br/>
   🚀 Construindo soluções simples para problemas complexos.
 </p>
