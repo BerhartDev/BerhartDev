@@ -1,68 +1,17 @@
-<div align="center">
+Hi, I'm Bernardo.
 
-```
-$ whoami
-bernardo@dev:~$ Full-Stack Developer · DevOps · Cybersecurity
-```
+Node.js full-stack developer in Rio. I work at Lance!, keeping a
+high-traffic sports news site fast and online: Node and TypeScript on
+the back, Next.js on the front, and more Cloudflare than I expected.
 
-</div>
+I came to development from networks and infrastructure, so I think
+like someone who's been woken up at 3am by a server that went down.
 
-<br/>
+On the side I'm building two things:
 
-```bash
-$ cat about.md
-```
+- [VamosMarcar](https://vamosmarcar.com), a scheduling SaaS for barbershops and salons (Node, Prisma, Next.js)
+- [Beknologia](https://beknologia.up.railway.app/), a headless blog in four languages (Next.js, Strapi, Redis)
 
-Versatile professional with experience in infrastructure, web development, industrial automation, and electronics. My current work is focused on:
+Most of the code here is work in progress. Some of it will stay that way.
 
-- Using AI to automate tasks and speed up delivery
-- Applying cybersecurity best practices to infrastructure and web applications
-- Building fast, efficient landing pages
-- Developing applications with Next.js, TypeScript, and Tailwind CSS
-- Digital solutions for small businesses and freelancers
-- Search engine optimization (SEO)
-
-<br/>
-
-```bash
-$ ls stack/
-```
-
-| Area | Technologies |
-|---|---|
-| **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS · WordPress |
-| **Backend & Data** | Node.js · Python · PostgreSQL · MySQL · SQLite · MongoDB |
-| **Infrastructure** | Docker · Nginx · Apache · Cloudflare · Linux |
-| **Security** | Kali Linux · Nmap · Wireshark · pfSense · VPN · OWASP |
-
-<br/>
-
-```bash
-$ cat projects.md
-```
-
-> Portfolio coming soon — repositories are being organized and content is being prepared.
-
-<br/>
-
-```bash
-$ contact --list
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURLINKHERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bekno.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/YOURNUMBERHERE)
-
-<br/>
-
----
-
-```bash
-# note
-```
-
-> Some of the projects on this profile were developed with the help of AI tools, reflecting the responsible use of these technologies in the modern software development workflow.
-
-<div align="center">
-<sub>$ echo "made with coffee and curiosity"</sub>
-</div>
+[beknodev.vercel.app](https://beknodev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bernardoknoblauch)
