@@ -9,9 +9,9 @@ like someone who's been woken up at 3am by a server that went down.
 
 On the side I'm building two things:
 
-- [VamosMarcar](https://vamosmarcar.com), a scheduling SaaS for barbershops and salons (Node, Prisma, Next.js)
+- [VamosMarcar](https://vamosmarcar.com/), a scheduling SaaS for barbershops and salons (Node, Prisma, Next.js)
 - [Beknologia](https://beknologia.up.railway.app/), a headless blog in four languages (Next.js, Strapi, Redis)
 
 Most of the code here is work in progress. Some of it will stay that way.
 
-[beknodev.vercel.app](https://beknodev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bernardoknoblauch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://beknodev.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](https://www.linkedin.com/in/bernardoknoblauch)
